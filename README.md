@@ -8,4 +8,4 @@
 
 Plain text
 
--bulleted text
+*bulleted text
